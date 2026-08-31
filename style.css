@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+header{
+    background-color: cadetblue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nava a{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.icons button{
+    padding: 5px;
+    background-color:transparent; 
+    border: transparent;
+}
+
+h2,p{
+    display: flex;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    
+}
